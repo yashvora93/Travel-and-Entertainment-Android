@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Places Search</string>
+    <string name="tab_text_1">Search</string>
+    <string name="tab_text_2">Favorites</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="enter_keyword">Enter Keyword</string>
+    <string name="keyword">Keyword</string>
+    <string name="category">Category</string>
+    <string name="distance_in_miles">Distance (in miles)</string>
+    <string name="enter_distance_default_10_miles">Enter distance (default 10 miles)</string>
+    <string name="from">From</string>
+    <string name="current_location">Current Location</string>
+    <string name="other_specify_location">Other. Specify Location</string>
+    <string name="type_in_the_location">Type in the location</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="please_enter_mandatory_field">Please enter mandatory field</string>
+    <string name="no_favorites">No favorites</string>
+
+    <string name="title_activity_search_results">SearchResults</string>
+    <string name="nextButton">Next</string>
+    <string name="btnPrevious">Previous</string>
+    <string name="placeName" />
+    <string name="placeLocation">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_details">Details</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="info">Info</string>
+    <string name="photos">Photos</string>
+    <string name="map">Map</string>
+    <string name="reviews">Reviews</string>
+    <string name="place_id" />
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="price">Price Level</string>
+    <string name="ratings">Ratings</string>
+    <string name="googlePage">Google Page</string>
+    <string name="website">Website</string>
+    <string name="travel_mode">Travel mode</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_directions">Map</string>
+    <string name="no_results">No results</string>
+    <string name="no_string_no_favorites">No favorites</string>
+    <string name="no_photos">No photos</string>
+    <string name="no_reviews">No reviews</string>
+</resources>
